@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/pulse/solidity-create-2-opcode-rouhallah-samadi">Linkedin Article</a> 
+
 use:
 <code>
 forge init -vv
